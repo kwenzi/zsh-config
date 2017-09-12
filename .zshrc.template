@@ -1,0 +1,2 @@
+# Use the configuration in .zsh
+source ~/.zsh/zshrc
