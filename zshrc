@@ -15,7 +15,7 @@ ZSH_THEME="consoleColors"
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git docker sudo alias)
+plugins=(git docker sudo alias npm node nvm)
 
 # Prepare
 source $ZSH/oh-my-zsh.sh
